@@ -7,8 +7,10 @@
 	<b>As we introduced comparison so the source and destination must have by road link.</b>
 
 <p>Blue line is the route by road. And Red line is calculated using haversign method</p>
-	<img src="https://github.com/iminnovation/ShortestPathGoogleMap/blob/master/images/Image1.png" width="100" height="100"/>
 
-	<img src="https://github.com/iminnovation/ShortestPathGoogleMap/blob/master/images/Image2.png" width="100" height="100"/>
+<img src="https://github.com/iminnovation/ShortestPathGoogleMap/blob/master/images/Image1.png" width="100" height="100"/>
+
+<img src="https://github.com/iminnovation/ShortestPathGoogleMap/blob/master/images/Image2.png" width="100" height="100"/>
+
 </body>
 </html>
